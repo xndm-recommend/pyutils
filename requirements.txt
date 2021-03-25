@@ -5,4 +5,4 @@ pyhive==0.6.1
 pymssql==2.1.4
 raven==6.10.0
 yagmail==0.11.220
-PyYAML==5.1.1
+PyYAML==5.4
