@@ -1,4 +1,4 @@
-setuptools==39.0.1
+setuptools==65.5.1
 PyMySQL==0.9.3
 pyhdfs==0.2.2
 pyhive==0.6.1
